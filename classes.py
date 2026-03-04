@@ -1,4 +1,4 @@
-classe= str(input("Digite a classe do animal:"
+classe= str(input("Digite a classe do animal"
 "(aves, mamíferos, répteis, anfíbios e peixes)"))
 
 if classe=="Aves" or "aves":
